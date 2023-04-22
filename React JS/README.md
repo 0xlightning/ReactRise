@@ -13,4 +13,4 @@ You may also see any lint errors in the console.
 
 ### age calculator 
 
-<img src="../project images/">
+<img src="React JS/project images/age calculator.png">
