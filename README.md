@@ -1,2 +1,2 @@
 # reactClassRoom
-I started learning react and my first react projects
+I started learning react and my react projects
