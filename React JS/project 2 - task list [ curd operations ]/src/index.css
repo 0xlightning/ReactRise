@@ -1,0 +1,136 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.head {
+    box-sizing: border-box;
+    margin: 50px;
+}
+.flx {
+    display: flex;
+    justify-content: space-between;
+}
+.flx2 {
+    display: flex;
+    justify-content: space-evenly;
+}
+.invisble-btn {
+    border: none;
+    background: none;
+}
+.blue {
+    color: #5e6af1;
+    border-color: #5e6af1;
+}
+.red {
+    color: #ff0000;
+    border-color: #ff0000;
+}
+.green {
+    color: #008000;
+    border-color: #008000;
+}
+.bor {
+    text-align: center;
+    background: #fff;
+    padding: 5px;
+    border: 2px solid ;
+    border-radius: 5px;
+}
+.add {
+    background-color: #3784f6;
+    color: #fff;
+    font-weight: bold;
+    padding: 10px 20px;
+    border: 1px solid #3784f6;
+    border-radius: 6px;
+}
+.bb-green {
+    box-sizing: border-box;
+    text-align: center;
+    width: 150px;
+    padding: 5px;
+    font-weight: bold;
+    border: 1px;
+    border-radius: 5px;
+    background-color: green;
+    color: #fff;}
+.bb-red {
+    box-sizing: border-box;
+    text-align: center;
+    width: 150px;
+    padding: 5px;
+    font-weight: bold;
+    border: 1px;
+    border-radius: 5px;
+    background-color: red;
+    color: #fff;
+}
+.head2 {
+    box-sizing: border-box;
+}
+.addFormSubmit input {
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+    border: 1px solid rgb(212, 212, 212);
+    border-radius: 3px;
+    padding: 7px;
+    margin: 5px 0;
+}
+.addFormSubmit select {
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+    border: 1px solid rgb(212, 212, 212);
+    border-radius: 3px;
+    padding: 7px;
+    margin: 5px 0;
+}
+table {
+    margin: 50px auto;
+    width: 95%;
+}
+thead {
+    background: rgb(218, 216, 216);
+    padding: 30px;
+}
+th {
+    border-right:1px solid rgb(130, 129, 129);
+}
+table,th, td {
+    border-bottom:1px solid rgb(130, 129, 129);
+    border-collapse: collapse;
+    text-align: left;
+    padding: 15px;
+}
+.w10 {
+    width: 13%;
+}
+.w60 {
+    width: 50%;
+}
+.form-title {
+    text-align: center;
+    color: red;
+}
+.b-blue {
+    color: #5e6af1;
+}
+input,a {
+    cursor: pointer;
+}
+.form-popup {
+    box-sizing: border-box;
+    position: fixed;
+    left:40%;
+    padding: 25px;
+    width: 400px;
+    background: #fff;
+    border-radius: 10px;
+    border: 3px solid #111;
+}
+.display-none {
+    display: none;
+}
