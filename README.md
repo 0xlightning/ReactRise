@@ -10,4 +10,4 @@ I started learning react and my react projects
   - todo list
 
 - react + mysql + node.js
-  - curd operation
+  - ReactRise 1.0 [curd operation]
