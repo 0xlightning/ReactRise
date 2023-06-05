@@ -8,3 +8,6 @@ I started learning react and my react projects
   
 - react + redux projects
   - todo list
+
+- react + mysql + node.js
+  - curd operation
